@@ -12,3 +12,8 @@
 ###> IDE ###
 .idea/
 ###< IDE ###
+
+###> Docker ###
+docker/volumes/database/data
+!docker/volumes/database/data/.gitkeep
+###< Docker ###
